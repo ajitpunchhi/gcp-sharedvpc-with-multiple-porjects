@@ -9,6 +9,11 @@ Terraform configuration for setting up Google Cloud Shared VPC with separate pro
 - **Development Service Project**: For development workloads
 - **Cloud Interconnect**: Partner attachments for on-premises connectivity
 
+## Architecture Design
+
+![Single host project, multiple service projects](https://github.com/user-attachments/assets/b726397b-ca26-4a79-989d-c5473a0f1ff0)
+
+
 ## Prerequisites
 
 1. Google Cloud account with billing enabled
