@@ -1,0 +1,7 @@
+host_project_id = "value"
+prod_service_project_id = "value"
+dev_service_project_id = "value"
+organization_id = "value"
+billing_account = "value"
+default_region = "us-central1"
+secondary_region = "us-east1"
